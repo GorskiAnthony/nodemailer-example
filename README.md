@@ -1,3 +1,3 @@
 # Send mail with nodemailer
 
-## I use nodemailer for send mail since my website
+## I use nodemailer to send mail from my website
